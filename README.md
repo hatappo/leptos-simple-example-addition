@@ -44,10 +44,9 @@ $ tree ./dist
 ./dist
 ├── index.html
 ├── leptos-tutorial-772767697aef62e8.js
-├── leptos-tutorial-772767697aef62e8_bg.wasm
-└── leptos-tutorial.wat
+└── leptos-tutorial-772767697aef62e8_bg.wasm
 
-1 directory, 4 files
+1 directory, 3 files
 ```
 
 ### 生成された wasm バイナリを wat に変換する
